@@ -60,5 +60,5 @@ columns:
     data_type: decimal(38,9)
   - name: s_tax_precentage
     data_type: decimal(38,9)
-connection_id: wh-connection
+connection_id: wh
 table: store
